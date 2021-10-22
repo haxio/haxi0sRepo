@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm
-Codename: bludood
+Codename: haxi0
 Components: main
-Date: Fri, 22 Oct 2021 12:18:05 +0000
-Description: Tweaks made by BluDood
-Label: BluDood's Repo
-Origin: BluDood's Repo
+Date: Fri, 22 Oct 2021 17:31:29 +0000
+Description: haxi0's cydia repository
+Label: haxi0's Repo
+Origin: haxi0's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
  132c862f93faa505ef6a30c847969851             1256 Packages
  9ceabaca5bb64388b7eb107d20558667              706 Packages.bz2
- 4de10a811f597fc3a4d15418b96956e7              635 Packages.gz
- 9a035798cf9a1320f6be7095e0baba8f              209 Release
+ de873098ccb04d54018ec37515ef50da              635 Packages.gz
+ 09830ae985760226e92be6fa79651cea              205 Release
 SHA1:
  45c65a4d231dae1367f23c6bee45a6fbba4613b3             1256 Packages
  180222500eace3b8349fea3af6c27bfed91ca1f1              706 Packages.bz2
- d5a2b634e7f240f522f7a82107c963e2ad9e4879              635 Packages.gz
- 79d7aacc8fce995515204368a300269b5770dcd4              209 Release
+ b2238cf62e0244b33b4fc35f3b245022413c305c              635 Packages.gz
+ 068c31fac2809c6874e47809fc2279f67ce904ce              205 Release
 SHA256:
  f3520fe779808633cc819a2cce4c72b62950d7169d8b00ee8ee1c0a79ae15e30             1256 Packages
  59e8768f390cbcc2568ebfe60cf8d6b818737e87a5906bccae330769be824929              706 Packages.bz2
- c3c5e8190758e1860fea1c5b6e5dfa88ab8b831f80deb0b83f90ddd6625f4f55              635 Packages.gz
- 9f0b44062e439d26e8b35d5765574fff246bea0814b002754c8c1d9df218d2f9              209 Release
+ 0cdc98af11ca879b80bea73d91d97496f6e2ff43fcfb7b2096a63de922dabb9c              635 Packages.gz
+ 06ee1ec6c4aac03cd85702505c0dee7ef44012f6fce377cdf62e3c4af7f397a4              205 Release
 SHA512:
  a9068458ed9685073f036c76b5e16ecc95e1f8c2ce57589e472d727c37e15f2d1a89b30191af8924fbfdc630ea9939af8cfc306c2995b4217a857c4ae9bab521             1256 Packages
  11d2251002f1c1ccdeaefa9501caa4e83884097130d855a6b956362866d5ecfdcbd7e7ce86969879933526a60df7338e37c7b0d96b0276f92c1902118ab7f290              706 Packages.bz2
- c4cf023a894ae5471c08239edbdab8b6ac80512022cd1ac30dc67c73bae1abbb60c3899b9be0fc6d22685d53c9fc404e25cc6faa9e014db741791af468a3252d              635 Packages.gz
- c1ce8798999337b856a3a88de0a56bfddf128e9da773c6617d7acd6d9b645d49a57345650d92c900d410be04b7ecd387075bb9e3dc2a8e67bafc1ace18677f44              209 Release
+ 933cb47a15d2f2154a8ccc4f97100f04ec5e1a09e8cac3804d03cfc66b071a5c564d38f93714bf7fdd681dade8d8e6efe3bd3af3e48abb1fc3a0bf5f0f7bc321              635 Packages.gz
+ 93bfb972af95b2878f8cdc4955917a1d6ac49515b5ce849395c31627de7accfc9350967309eb617350ca911c860421e851d6c9648b3b02af547d3d356aa266ac              205 Release
