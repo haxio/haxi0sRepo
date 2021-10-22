@@ -1,0 +1,9 @@
+Package: helloworld
+Name: Hello, World!
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A testing tweak that says "Hello World, version 1.0"
+Depiction: ""
+Maintainer: BluDood <bludood@bludood.com>
+Author: BluDood <bludood@bludood.com>
+Section: Tweaks
