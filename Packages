@@ -1,32 +1,15 @@
-Package: helloworld
+Package: com.haxi0.JailbrokenJaility
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
-Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
-Size: 780
-MD5sum: 2747b3f7fa3aa55fa7f8422b3b902320
-SHA1: a11040fa5abc9a6063cd5b98b9b446ba26d69f6e
-SHA256: 7c073c1cf05aa4d1069adbc85eab27e7f60af2684e38f1e2e1f4491b119fbebc
-SHA512: f8e62931bbbc391e7fe784abcf8dbd32c092071c40807e87afb828e72bb4e83d644e99f4a8cd1e2c61441f8519af59ebabc4e770cb654fb370c0634b0c942329
-Description: A testing tweak that says "Hello World, version 1.0"
-Name: Hello, World!
-Depiction: ""
-Author: BluDood <bludood@bludood.com>
-
-Package: helloworld
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
-Size: 776
-MD5sum: 8b3d637db5c9cdffda812466518c205e
-SHA1: 9d719c8d348c9a90ff39e87d28c7242c2b12d4ec
-SHA256: 2e57893e057d5952bfc94360f30d6f2aca8c2522f9e54fd187946fe369134c8a
-SHA512: a702331b5bbadcbb62eae05f5c2eb2390def1159c0cebdff55ca7fb84a2a5a0761afd7d7088ad312029bf9f64c910f739127937c7b4d62b07166fda09842e800
-Description: A testing tweak that says "Hello World, version 1.1"
-Name: Hello, World!
-Depiction: ""
-Author: BluDood <bludood@bludood.com>
+Section: Apps
+Maintainer: haxi0
+Filename: ./debs/com.haxi0.JailbrokenJaility_1.0.deb
+Size: 732
+MD5sum: cad01318106dd6a0cae2e94f7269bf09
+SHA1: d8a1fcdbc337dc844cfd65020783a432306a5b9f
+SHA256: 1dea5bdc6b83936c1a7b1bf7954848fca2fb6fe3adbe0dc7e1c804110378abd4
+SHA512: c3cf2946c374b5ed4dd9e605128f21bf27a4f08bf7aac0a6d90d4c9acc83a9ccb9e2e9074ae4fbb06fbb444cf097c9a242e788cddd143ec11960e747b5d0fc11
+Description: Jaility is a jailbreak utility.
+Name: Jaility
+Author: haxi0
 
