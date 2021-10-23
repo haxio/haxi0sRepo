@@ -6,4 +6,5 @@ Description: Jaility, but you don't have to sign it!
 Maintainer: haxi0 <fabiomailboxgood@mail.ru>
 Author: haxi0 <fabiomailboxgood@mail.ru>
 Section: Applications
-Icon: https://repo.haxi0-dev.com/assets/jaility.jpeg
+Icon: https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/icon.jpeg
+SileoDepiction: https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/sileo.json
