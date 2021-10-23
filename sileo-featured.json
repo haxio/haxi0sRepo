@@ -8,6 +8,12 @@
           "title":"Jaility",
           "package":"com.haxi0.jailityjailbroken",
           "hideShadow":true
-       }
+       },
+       {  
+         "url":"https://repo.haxi0-dev.com/assets/db.jpg",
+         "title":"MilkyWay 2 (iOS 14)",
+         "package":"com.brend0n.milkyway2-ios14fix",
+         "hideShadow":true
+      }
     ]
  }
