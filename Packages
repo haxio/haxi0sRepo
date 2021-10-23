@@ -14,3 +14,39 @@ Name: Jaility
 Depiction: ""
 Author: haxi0 <fabiomailboxgood@mail.ru>
 
+Package: jp.akusio.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+SHA512: 7de4b826a9e436adb2d2252acd9283bbb9c3301e3fb02d7069e67c23c267e3f66b003aa0b7ac3450f25dea5c488a6007a21e45e30792c6b8f26b72715064f38e
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 44822
+MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
+SHA1: a779498db20097cef4783e6d817796d640bd6372
+SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+SHA512: b1d45f48ba91227fe22d8f7d0489b9e59f0c27b3b8e55356c009da0574504d51340b80e275d2c834574671781135841a57fcdfd1c84a5245cda05d4ccc495c46
+Description: multitasking for iOS13.
+Name: MilkyWay2
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Author: akusio <akusio-report@neko2.net>
+
