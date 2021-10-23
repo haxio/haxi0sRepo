@@ -23,15 +23,15 @@ Version: 1.0
 Section: Applications
 Maintainer: haxi0 <fabiomailboxgood@mail.ru>
 Filename: ./debs/com.haxi0.JailityJailbroken_1.0-1_iphoneos-arm.deb
-Size: 1566880
-MD5sum: 13087d7487772398611795888fdea4c7
-SHA1: 596e83ef73720c988989be43b878f97e46f9b53d
-SHA256: ed5ea6d2ba9962b6c4c4848a14c55350890965161be725335b5bea17433270e7
-SHA512: f385f86b5b3cac3b85e1eefd9ce69919a53f41899d592ef45224a4725e610ddade18b9e82d3151dfc1c3403083d8914ac28815d0c07257a421659f3024d4adce
-Description: Jaility but you dont need to sign it!
+Size: 1566908
+MD5sum: df79785b4e0ca89280f1147c3d021085
+SHA1: 3d9f02933bdf77ad373ddc6b94f0a3b0756733d4
+SHA256: 81eed559f1d624046f404f6ea45caff4c047db8b97a1e44bfa317ead2681228c
+SHA512: e30a78f6952c541a990d89a71e942167503adec804305a37aac550d0f141cc7453fc3f301b3acd1fc9c791b4e8a84e8b0a142f0e8fd964ad0defdee03013a018
+Description: Jaility, but you don't have to sign it!
 Name: Jaility
-Depiction: ""
 Author: haxi0 <fabiomailboxgood@mail.ru>
+Icon: https://repo.haxi0-dev.com/assets/jaility.jpeg
 
 Package: jp.akusio.milkyway2
 Architecture: iphoneos-arm
