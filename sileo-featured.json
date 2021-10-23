@@ -1,19 +1,19 @@
 {  
-    "class":"FeaturedBannersView",
-    "itemSize":"{263, 148}",
-    "itemCornerRadius":10,
-    "banners":[  
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [  
        {  
-          "url":"https://repo.haxi0-dev.com/assets/iso11.jpg",
+          "url":"https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/banner.jpg",
           "title":"Jaility",
           "package":"com.haxi0.jailityjailbroken",
-          "hideShadow":false
+          "hideShadow": false
        },
        {  
-         "url":"https://repo.haxi0-dev.com/assets/db.jpg",
-         "title":"MilkyWay 2 (iOS 14)",
-         "package":"com.brend0n.milkyway2-ios14fix",
-         "hideShadow":false
+         "url": "https://repo.haxi0-dev.com/depictions/com.brend0n.milkyway2-ios14fix/banner.jpg",
+         "title": "MilkyWay 2 (iOS 14)",
+         "package": "com.brend0n.milkyway2-ios14fix",
+         "hideShadow": false
       }
     ]
  }
