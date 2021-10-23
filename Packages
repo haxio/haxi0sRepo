@@ -14,20 +14,3 @@ Name: Jaility
 Depiction: ""
 Author: haxi0 <fabiomailboxgood@mail.ru>
 
-Package: com.haxi0.JailityJailbroken
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: haxi0 <fabiomailboxgood@mail.ru>
-Filename: ./debs/com.haxi0.JailityJailbroken_1.0-3_iphoneos-arm.deb
-Size: 1566920
-MD5sum: 73eda1b9621a8e956aa1567ba4329baa
-SHA1: bf17a852ac133234382de6e1b204efdbe40bcf49
-SHA256: a4e0865ba49fb60d19e5b044ae5721fdb7dcacf9d808ff66b76feeabe0560f93
-SHA512: 4328046c15005adabcc87365b042695e2d9a6aef6c6fea08c7c2148f4488abe11dbe5f8aa3623fa9d6f6469f7a85a2f421c96ae2feeec6c0b239754b23804b9b
-Description: Jaility but you dont need to sign it!
-Name: Jaility
-Depiction: ""
-Author: haxi0 <fabiomailboxgood@mail.ru>
-Icon: https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/icon.png
-
