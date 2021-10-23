@@ -7,7 +7,7 @@
           "url":"https://repo.haxi0-dev.com/assets/db.jpg",
           "title":"Jaility",
           "package":"com.haxi0.jailityjailbroken",
-          "hideShadow":false
+          "hideShadow":true
        }
     ]
  }
