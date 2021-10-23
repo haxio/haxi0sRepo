@@ -1,0 +1,29 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Sat, 23 Oct 2021 20:03:22 +0000
+Description: haxi0's Cydia Repository
+Label: haxi0's Repo
+Origin: haxi0's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ e9fee77088b088776a0c0e8273fa9d4a             2468 Packages
+ f9661b7d7eb7ecd8b3b90690bbcd49cf             1258 Packages.bz2
+ 2c826e8a838a25a88defa1368536356c             1164 Packages.gz
+ c410a47921d32c8860b8db8529192651              203 Release
+SHA1:
+ 7edb171c094c07964d7e09a97825cf48db4d6882             2468 Packages
+ b0b9b433b66bda3638d1ad6708133db096474347             1258 Packages.bz2
+ dbba5a89c3275be4ad489af971c064a51a1b4f77             1164 Packages.gz
+ 831a95e0112aa673fd59fbc599fbbc50622e8823              203 Release
+SHA256:
+ ef720de5688536266db17c281dea8bbf9a4acb91d0297ba036c8c21305361191             2468 Packages
+ 45aaac836336ba8b93b1b9ba3aad41ddf2e654e1b4c0c9a40048a058187bdf0c             1258 Packages.bz2
+ eb62e13e4c0a895168e6cb35da7ed15b15eed2b472c9fab2353403ee1a7013e2             1164 Packages.gz
+ 3572e61bc58e55e0e32e9b08a9adf747559bc00210e47a5175065b4a5023e13b              203 Release
+SHA512:
+ 9468acaf2e2893188c382709215c5dd81bed122761328da461104bde466062f9f1ff6c1e460909c555e980b558cb90ea45220eb0f89b98309dbb07ee4529c19b             2468 Packages
+ b8c5b150975e77de4cf4bd3414bcfed995e5cc7e6f531fe57a9043262d9e11ca060609f11cb07988d4d93ac32a566905fb5bea83891af0b810e1b0fb3f642f19             1258 Packages.bz2
+ 350d520bac46ddb6a2f4358d66092de4f2f6c6e1778bb56f679dbb646433d489a763d4c17a5e16a61be9b7e07aabb6b4ee90612e2d3050e8d66cfe83a41627bf             1164 Packages.gz
+ d1630c3cfa62a05346fffe72c44e0f21a85bb1b76bdda3e16fa718546b144f1ef47fff5e45030087792ccf3b14e62b05f0fb83a9e632aa13e77657cf90da273f              203 Release
