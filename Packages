@@ -1,3 +1,22 @@
+Package: com.brend0n.milkyway2-ios14fix
+Architecture: iphoneos-arm
+Version: 0.0.2.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm.deb
+Size: 10150
+MD5sum: 97fa560c870e9fbcc75e366e0cebe335
+SHA1: ec1eb31c1a50520e34d9a9114fe516eb500b5400
+SHA256: 806884a9b90732482a355af6be65c38ac51d70ee845b82499456daf9cb0fd6d8
+SHA512: 46a57768d01b1c0d5c79bc320971b83cf2302ecd974f847caed3319200aed3e4014a973668bfc96b2fc1a10d51a09ce4d2728c287d8abf831e780bc39e09b899
+Description: Make MilkyWay2 great again!
+Name: MilkyWay2-iOS14Fix
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.milkyway2-ios14fix
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.milkyway2-ios14fix/depiction.json
+
 Package: com.haxi0.JailityJailbroken
 Architecture: iphoneos-arm
 Version: 1.0
