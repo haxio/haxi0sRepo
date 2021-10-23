@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Jaility",
+                    "markdown": "# Jaility",
                     "useSpacing": true
                 },
                 {
