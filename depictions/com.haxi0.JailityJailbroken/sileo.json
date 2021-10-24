@@ -14,9 +14,6 @@
                     "useSpacing": true
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### Jaility, but you don't have to sign it! 😉",
                     "useSpacing": true
