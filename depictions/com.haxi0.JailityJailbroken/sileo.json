@@ -21,8 +21,9 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "screenshots": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup.png/",
-                    "itemCornerRadius": "15",
-                    "itemSize": ""
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}"
+            
                 },
                 {
                     "class": "DepictionSeparatorView"
