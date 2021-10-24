@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sun, 24 Oct 2021 06:43:25 +0000
+Date: Sun, 24 Oct 2021 07:21:54 +0000
 Description: haxi0's Cydia Repository
 Label: haxi0's Repo
 Origin: haxi0's Repo
@@ -10,20 +10,20 @@ Version: 1.0
 MD5Sum:
  0a50ee2bb8d39804087bd393b17b7e58             3296 Packages
  3cf16d41011eeea604666c5fbb61e443             1586 Packages.bz2
- 37497ae30e350274064d03bed5c8752e             1452 Packages.gz
- 4d6fde41978e9c1d52a65cc1c49c1e70              203 Release
+ c56e6c655dd7310f3fd37b7d1c333afb             1452 Packages.gz
+ 78e9b01f52508577b8d9f0997461f527              203 Release
 SHA1:
  2d363b4402c73d92988dec6ad7b78250f838a7a5             3296 Packages
  f03ee9a549a0bec418a1c3f132be189beac601f0             1586 Packages.bz2
- 505739569519d5aed6ca337f037c7a645aba729c             1452 Packages.gz
- f91efc637fa5934a92ff4d95fc708e814948a892              203 Release
+ b0fd552a3d8dbaa44213b171a7f4a698b9612083             1452 Packages.gz
+ 233a58b22285a031aff85cffbb14bf93a7418f43              203 Release
 SHA256:
  120533f99e6fd2cddbda7cc67dcba2dde41ffcfb87fec7fe4d6e3a6c81cc8132             3296 Packages
  02cedcb3d94c5c513d1b4d7e926b0b2a8815c21d11bf8e824770e7fbccd80b0e             1586 Packages.bz2
- 7ff5302087d351206ec7843c10a8d8b0efbe08957892b1ea2aed6d52a0287ce0             1452 Packages.gz
- 7f49d3bb2c20d58e6984f0b2f9a15efe039297292b75b2c09f6b3797a1ab8493              203 Release
+ e529f71319a4b0c081c01367851791461677608c584b38f497adf662123e322f             1452 Packages.gz
+ d85eaa52cc795136d56b50aebece1f16d0672f507cd0d865bdce3045fb947de6              203 Release
 SHA512:
  a1332e5ea18b98d2641f9688c038f67e1a6356f5568c07052b6dddcadd112a0eb9d713b6afcf49a721a160ba3b0aa856bfbb3d5826d7abeebfebf70b38b907b3             3296 Packages
  f396d5583bcab9487064903a21c6d843fb698d3a8ab28b73c0df9350645872d1d1cf6bf6ec1800779bc7866b4898e009c365be5c1914af529dea5f6f6e23038e             1586 Packages.bz2
- 0e7a394cc83e20dceb1a26936a206ed951482f41587eaae843db5ac8131696d012d4c14918a052fbb25768899fcde598dc7b33b64b8be6c5ab13b57bec9c49bc             1452 Packages.gz
- cf289a4ce0a538ec58e586b407def5ef0484615722b49d77c817893249989772e958b3315fb2d07601435343fdc4ba67a0ecf5e16a2634f3edbe35087f7ea345              203 Release
+ 6d09170b00243c24c8d52551a5594a584dee638c44aee8e0c750fb40d8f3b858d3b1bccd7cd1dca564294167b110ec6badba3024ca86541a1fc91bd57e7bb547             1452 Packages.gz
+ 2d0ad45d7904b61ea93d9fe1ae5a98024466abbdfc175458b7dfb88adb770d01d47bc37f9346b51f03abbc87b301623f39db68eb7ce41286f337b0ca14f43ba1              203 Release
