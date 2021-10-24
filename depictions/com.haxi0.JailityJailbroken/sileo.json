@@ -9,6 +9,17 @@
             "tabname": "Details",
             "views": [
                 {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                      {
+                        "url": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup.png",
+                        "accessibilityText": "Screenshot1"
+                      }
+                    ],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{160,275}"
+                  },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "# Jaility",
                     "useSpacing": true
