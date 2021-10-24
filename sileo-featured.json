@@ -10,7 +10,13 @@
           "hideShadow": false
        },
        {  
-         "url": "https://repo.haxi0-dev.com/depictions/com.brend0n.milkyway2-ios14fix/banner.jpg",
+         "url":"https://repo.haxi0-dev.com/depictions/defaultbanner.jpg",
+         "title":"BGAction2 for CCSupport",
+         "package":"jp.akusio.backgrounderaction13",
+         "hideShadow": false
+      },
+       {  
+         "url": "https://repo.haxi0-dev.com/depictions/defaultbanner.jpg",
          "title": "MilkyWay 2 (iOS 14)",
          "package": "com.brend0n.milkyway2-ios14fix",
          "hideShadow": false
