@@ -14,6 +14,10 @@
                       {
                         "url": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup.png",
                         "accessibilityText": "Screenshot1"
+                      },
+                      {
+                        "url": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup2.png",
+                        "accessibilityText": "Screenshot2"
                       }
                     ],
                     "itemCornerRadius": 8,
