@@ -19,6 +19,12 @@
                     "useSpacing": true
                 },
                 {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup.png/",
+                    "itemCornerRadius": "15",
+                    "itemSize": ""
+                },
+                {
                     "class": "DepictionSeparatorView"
                 },
                 {
