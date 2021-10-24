@@ -29,7 +29,7 @@
                     "itemCornerRadius": 8,
                     "itemSize": "{160,275}"
                   },
-                  {
+                {
                     "class": "DepictionSeparatorView"
                 },
                 {
