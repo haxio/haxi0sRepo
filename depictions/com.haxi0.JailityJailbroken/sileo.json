@@ -10,11 +10,6 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# Jaility 🔒",
-                    "useSpacing": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
                     "markdown": "### Jaility, but you don't have to sign it! 😉",
                     "useSpacing": true
                 },
