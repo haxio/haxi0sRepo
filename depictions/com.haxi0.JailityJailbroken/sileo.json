@@ -33,9 +33,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "class": "DepictionTableTextView",
                     "title": "Developer",
                     "text": "haxi0"
