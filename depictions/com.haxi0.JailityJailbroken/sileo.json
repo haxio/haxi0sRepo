@@ -9,6 +9,11 @@
             "tabname": "Details",
             "views": [
                 {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Jaility, but you don't have to sign it! 😉",
+                    "useSpacing": true
+                },
+                {
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                       {
@@ -19,22 +24,13 @@
                     "itemCornerRadius": 8,
                     "itemSize": "{160,275}"
                   },
+                  {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "# Jaility 🔒",
                     "useSpacing": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Jaility, but you don't have to sign it! 😉",
-                    "useSpacing": true
-                },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "screenshots": "https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/mockup.png",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 275.41333333333336}"
-            
                 },
                 {
                     "class": "DepictionSeparatorView"
