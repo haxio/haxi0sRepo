@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sun, 24 Oct 2021 05:21:47 +0000
+Date: Sun, 24 Oct 2021 06:39:21 +0000
 Description: haxi0's Cydia Repository
 Label: haxi0's Repo
 Origin: haxi0's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- e9fee77088b088776a0c0e8273fa9d4a             2468 Packages
- f9661b7d7eb7ecd8b3b90690bbcd49cf             1258 Packages.bz2
- d04cfc6d828131172284ef272bd57fae             1164 Packages.gz
- ee0fcb004fa9a2e371b44d6f7225b07c              203 Release
+ 0a50ee2bb8d39804087bd393b17b7e58             3296 Packages
+ 3cf16d41011eeea604666c5fbb61e443             1586 Packages.bz2
+ a621aac20d62174b53e87e6710ea759a             1452 Packages.gz
+ 5c5d9fe919cd5abb0ff59145bd9ad4f3              203 Release
 SHA1:
- 7edb171c094c07964d7e09a97825cf48db4d6882             2468 Packages
- b0b9b433b66bda3638d1ad6708133db096474347             1258 Packages.bz2
- 8b516a67f8c7e8ce63043a0523ba5cb72dead7c4             1164 Packages.gz
- 34938f5f19d7e7ac0eef3995279e6566245857bf              203 Release
+ 2d363b4402c73d92988dec6ad7b78250f838a7a5             3296 Packages
+ f03ee9a549a0bec418a1c3f132be189beac601f0             1586 Packages.bz2
+ c5f8b5d32fe3d782da91dfd631612ff198a2a32f             1452 Packages.gz
+ 0d47ed693d1d06ae7b1d24965f42cafc0e0fc9cd              203 Release
 SHA256:
- ef720de5688536266db17c281dea8bbf9a4acb91d0297ba036c8c21305361191             2468 Packages
- 45aaac836336ba8b93b1b9ba3aad41ddf2e654e1b4c0c9a40048a058187bdf0c             1258 Packages.bz2
- 371a64e98c49a71b5831b960ff4f8232bdad4348ced0e31e7f7f66c95daf298a             1164 Packages.gz
- e58b01e571c0662231325c63e7220efc1994907d1b8074f68122d4bb578c0fbc              203 Release
+ 120533f99e6fd2cddbda7cc67dcba2dde41ffcfb87fec7fe4d6e3a6c81cc8132             3296 Packages
+ 02cedcb3d94c5c513d1b4d7e926b0b2a8815c21d11bf8e824770e7fbccd80b0e             1586 Packages.bz2
+ e6c19a68d0d12550a7c3d127a0f4d2782d6f6ed2a5fe4c0deaf84b731b9576b8             1452 Packages.gz
+ 200fea0d4e005fc91a5f970c54bbdd57d163b12c26911698f79a691c8ef77867              203 Release
 SHA512:
- 9468acaf2e2893188c382709215c5dd81bed122761328da461104bde466062f9f1ff6c1e460909c555e980b558cb90ea45220eb0f89b98309dbb07ee4529c19b             2468 Packages
- b8c5b150975e77de4cf4bd3414bcfed995e5cc7e6f531fe57a9043262d9e11ca060609f11cb07988d4d93ac32a566905fb5bea83891af0b810e1b0fb3f642f19             1258 Packages.bz2
- 35eb82dbf4a57afc47ff5b57cc85ee2a4d44e871256e2c93447ff6386d03d75dbba82a003a88d13fa5497d9b8eba77a3a77d0508e8ef17a7c062be131f192e54             1164 Packages.gz
- 7e49d00f6686a5ace2e1861a21e583283f3479c371e00bf6ae568d16e17567c906ed39affed29f285741dc9857ca0c2ddffdd5690a1b06bd10e26da138ed0bad              203 Release
+ a1332e5ea18b98d2641f9688c038f67e1a6356f5568c07052b6dddcadd112a0eb9d713b6afcf49a721a160ba3b0aa856bfbb3d5826d7abeebfebf70b38b907b3             3296 Packages
+ f396d5583bcab9487064903a21c6d843fb698d3a8ab28b73c0df9350645872d1d1cf6bf6ec1800779bc7866b4898e009c365be5c1914af529dea5f6f6e23038e             1586 Packages.bz2
+ 1c4568092fcc44761471d5f70114007d1d9261ac730b0907c02775ee893c124471de042c3522389a9aee37b42ac46e68152a5cedeed31cffe00f7c38ca5b8244             1452 Packages.gz
+ b7e7f82525a76ba66b050a473662f160198d0335e2d232996eb359ab62a3ce20994bb905907cb6416c7ccad60c72f2e3e82b5233700d8a401a9c4a187a2357c3              203 Release
