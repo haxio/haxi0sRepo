@@ -34,6 +34,30 @@ Author: haxi0 <fabiomailboxgood@mail.ru>
 Icon: https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/icon.jpeg
 SileoDepiction: https://repo.haxi0-dev.com/depictions/com.haxi0.JailityJailbroken/sileo.json
 
+Package: com.lema.dragontweak
+Architecture: iphoneos-arm
+Version: 1.6
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23113
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./debs/dragon_1.6.deb
+Size: 5450718
+MD5sum: 733345fcafd298add87cae3fea299ac5
+SHA1: b5055fcb908a91cb7259197f2ff09db184163a82
+SHA256: 51271bf10b3724a0be6e60f725fbd4dd06f27c179ce151f9279240b01f013a74
+SHA512: 89fcc3e889d131bd81807f9119d93fe4badc5c854a7b66ee9f31232c1409ac6c8d368710f60bfc8a9849534d9c0bf2ce8eefd5bd84588cea508f98ba748421cd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragonDp
+Description: A simple, powerful WhatsApp tweak
+Tag: purpose::extension
+Name: Dragon
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragonDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Michael Lema <samewhitetee@gmail.com>
+dev: lema
+Icon: file:///Library/Application%20Support/Dragon.bundle/Tweak-icon@2x.png
+
 Package: jp.akusio.backgrounderaction13
 Architecture: iphoneos-arm
 Version: 0.1.4
