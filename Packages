@@ -1,3 +1,22 @@
+Package: app.enmity
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Zoey, eternal
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/app.enmity_1.1.0_iphoneos-arm.deb
+Size: 29644
+MD5sum: a1b22fcca93f21aa113fdb39882d70aa
+SHA1: e222a416a5094752b7c4b027c506554d2c7b75ce
+SHA256: 6cd171688fb3cf3f4ac6dd218df9943ae21fa3ac309f32378d4e48099acf5cb5
+SHA512: 67f4d65f0c0fcc6cd013466b20dfa64655b006fcc7d5505ea374fc73cc3df73736df9365d9dad92b2ebfa907bfdae1680acf7454771f2d72d6680c2736e20382
+Description: Patch Discord to add plugins and more!
+Name: Enmity
+Author: Enmity Team
+SileoDepiction: https://repo.enmity.app/depictions/enmity.json
+Icon: https://repo.enmity.app/icons/Enmity.png
+
 Package: com.brend0n.milkyway2-ios14fix
 Architecture: iphoneos-arm
 Version: 0.0.2.1
